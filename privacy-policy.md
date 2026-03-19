@@ -3,7 +3,7 @@
 Last updated: 2026-03-20
 
 Operator: **HikawaIOT**
-Contact: **your-email@example.com**
+Contact: **kage2011vita2013@gamil.com**
 
 ## 1. Information We Collect
 This service may process the following data as needed for automation:
